@@ -1,6 +1,6 @@
 import random
 from base_agent import BaseAgent
-from network import NetworkManager
+from network import NetworkManager # type: ignore
 
 
 BASE_DIRECTIONS = [

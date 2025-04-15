@@ -1,7 +1,7 @@
 import logging
 import time
 from abc import ABC, abstractmethod
-from network import NetworkManager
+from network import NetworkManager # type: ignore
 
 # Configure logging
 logging.basicConfig(
