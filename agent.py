@@ -3,6 +3,8 @@ from base_agent import BaseAgent
 from network import NetworkManager # type: ignore
 
 
+# testststs
+
 BASE_DIRECTIONS = [
     (0, -1),  # Up
     (1, 0),  # Right
